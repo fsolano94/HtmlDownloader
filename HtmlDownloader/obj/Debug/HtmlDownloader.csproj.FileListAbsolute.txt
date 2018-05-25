@@ -1,0 +1,15 @@
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\bin\Debug\HtmlDownloader.exe.config
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\bin\Debug\HtmlDownloader.exe
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\bin\Debug\HtmlDownloader.pdb
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.csprojResolveAssemblyReference.cache
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\MainWindow.g.cs
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\App.g.cs
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader_MarkupCompile.cache
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader_MarkupCompile.lref
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\MainWindow.baml
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.g.resources
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.Properties.Resources.resources
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.csproj.GenerateResource.cache
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.csproj.CoreCompileInputs.cache
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.exe
+c:\users\solano_f\source\repos\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.pdb
